@@ -132,6 +132,7 @@ section { overflow: hidden; }
 .bg-black{background-color: #222222;}
 .bg-white{background-color: #fff;}
 .bg-yellow{background-color: #fddc57;}
+.bg-secondary-color{background-color: rgba(148, 209, 190, 1)}
 
 img {
     -moz-user-select: none;
